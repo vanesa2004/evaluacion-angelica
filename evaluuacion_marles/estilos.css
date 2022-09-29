@@ -1,0 +1,44 @@
+body{
+    background-color: #f9f9fa;
+
+}
+.header{
+    background-color: #e3e4ee;
+   display: flex;
+   flex-direction: row;
+   width:1680px;
+   height: 100px;
+   
+   float: right;
+}
+.texto{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.search{
+    background-color:#404bda ;
+    width:900px ;
+    height: 20px;
+}
+
+
+.lateral{
+   background-color: #404bda;
+   display: flex;
+   flex-direction: column;
+   width: 200px;
+   height: 1500px;
+   
+}
+
+.angelica{
+    background-color: #3cc22a;
+    display: flex;
+    flex-direction: row;
+    width:1680px;
+    height: 100px;
+    
+    float: right;
+}
+
+
